@@ -1,0 +1,16 @@
+{
+  "name": "my-ts-axios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xujing",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^2.0.9",
+    "webpack-dev-server": "^3.0.0"
+  }
+}
